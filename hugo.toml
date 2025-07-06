@@ -1,0 +1,5 @@
+baseURL = 'https://yourusername.github.io'
+languageCode = 'en-uk'
+title = 'Test Automation Station'
+theme = "PaperMod"
+
