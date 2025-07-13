@@ -1,7 +1,7 @@
 ---
 title: "How to Quickly Build a Selenium Automation Framework in Java using IntelliJ IDEA"
 date: 2025-07-13
-tags: ["selenium", "java", "automation testing", "intellij", "test automation", "maven"]
+tags: ["selenium", "java", "automation testing", "intellij", "test automation", "maven", "test automation framework"]
 categories: ["Test Automation"]
 draft: false
 description: "Learn how to build a simple and scalable Selenium test automation framework in Java using IntelliJ IDEA, Maven, and TestNG. Ideal for beginners and testers transitioning into automation."
