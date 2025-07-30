@@ -132,7 +132,6 @@ public byte[] takeScreenshot() {
 
 If you're running your tests on GitHub Actions, you can add Allure to the workflow and even upload the generated HTML report as an artifact.
 
-Let me know in the comments if you want a step-by-step guide for that!
 
 ---
 
